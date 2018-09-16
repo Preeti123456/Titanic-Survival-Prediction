@@ -1,5 +1,4 @@
-#RandomForest, non parametric modeling
-#agconti
+#RandomForest
 
 import numpy as np
 import csv as csv
